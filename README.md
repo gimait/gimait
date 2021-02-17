@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-:robot: I'm a robotics engineer and software developer, currently working in developing tools for social robots, check out [our research](https://www.so-bots.com/).
+:robot: I'm a robotics engineer and software developer, currently working in developing tools for social robots.
+
+Check out some of the projects in our research group in https://www.so-bots.com/.
 
 <!--
 **gimait/gimait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
